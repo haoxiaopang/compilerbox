@@ -4,6 +4,7 @@
 ## usage ##
 install docker
 install node+npm
-
+```
 $ ./install.sh
+```
 $ sudo nodejs ./app.js
